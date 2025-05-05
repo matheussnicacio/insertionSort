@@ -1,4 +1,4 @@
-Esse algoritmo de ordenação utilizando InsertionSort. Foi usando como base o livro 
+Esse algoritmo de ordenação utilizando InsertionSort. Foi usando como base o livro :
 
 
 
